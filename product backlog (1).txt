@@ -1,0 +1,15 @@
+
+
+PRODUCT BACKLOG
+
+REQUIREMENT COLLECTION
+· Web application system for smart health prediction.
+· Users:  Admin, Patient, Hospital.
+· Purpose: Predict diseases based on user given parameters.
+· Features:
+1. User registraion.
+2. Login.
+3. User inputs: Dropdown will be provided to select disease (so that he can see whether he has that disease by providing the lab reports manually ).
+4. Disease prediction: The system provides two methods for disease prediction.
+5. Method evaluation: Based on some parameters the system evaluate which method is more accurate for a particular disease.
+                           
