@@ -155,7 +155,7 @@
                 &nbsp;</td>
             <td>
                 <asp:Label ID="Label3" runat="server" BorderColor="#3366FF" Font-Bold="True" 
-                    ForeColor="#0000CC" Text="Data Processing"></asp:Label>
+                    ForeColor="#3366CC" Text="Data Processing"></asp:Label>
             </td>
             <td>
                 &nbsp;</td>
@@ -188,7 +188,9 @@
             <td class="style5">
                 &nbsp;</td>
             <td class="style7">
-                &nbsp;</td>
+                <asp:LinkButton ID="LinkButton1" runat="server" Font-Bold="True" 
+                    ForeColor="#3366CC" onclick="LinkButton1_Click">Evaluation</asp:LinkButton>
+            </td>
             <td>
                 &nbsp;</td>
             <td>

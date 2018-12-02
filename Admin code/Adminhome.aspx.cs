@@ -23,4 +23,9 @@ public partial class Adminhome : System.Web.UI.Page
     {
         Response.Redirect("Dataprocessing.aspx");
     }
+    protected void LinkButton1_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("evaluation.aspx");
+
+    }
 }
